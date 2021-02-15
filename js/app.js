@@ -46,6 +46,7 @@ Animal.prototype.render = function(){
     // console.log(animalClone);
     $('main').append(animalClone);
     
+    
 }
 
 // Animal.prototype.filter = () =>{
@@ -74,4 +75,3 @@ $('select').on('change', function(event){
 
 })
 
-// $('.photo-template:first').hide();
