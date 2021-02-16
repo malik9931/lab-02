@@ -7,6 +7,9 @@
 body{
     background-color: #9ad3bc;
 }
+.photo-template{
+    display: none;
+}
 
 div{
     float: left;
@@ -28,13 +31,3 @@ img{
     height: 250px;
 }
 
-p{
-    color: #080808;
-    font-style:italic;
-    font-size: 20px;
-}
-
-h2{
-    font-weight: bold;
-    font-size: 30px;
-}
