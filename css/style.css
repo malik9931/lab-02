@@ -4,6 +4,12 @@
     box-sizing: border-box;
 }
 
+
+
+header{
+    text-align: center;
+    margin-top: 20px;
+}
 body{
     background-color: #9ad3bc;
 }
