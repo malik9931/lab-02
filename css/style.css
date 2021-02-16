@@ -4,8 +4,17 @@
     box-sizing: border-box;
 }
 
+
+
+header{
+    text-align: center;
+    margin-top: 20px;
+}
 body{
     background-color: #9ad3bc;
+}
+.photo-template{
+    display: none;
 }
 
 div{
@@ -28,13 +37,3 @@ img{
     height: 250px;
 }
 
-p{
-    color: #080808;
-    font-style:italic;
-    font-size: 20px;
-}
-
-h2{
-    font-weight: bold;
-    font-size: 30px;
-}
