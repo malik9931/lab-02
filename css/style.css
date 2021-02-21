@@ -1,3 +1,12 @@
+@import 'reset.css’';
+@import 'base.css';
+@import 'layouts.css';
+@import 'modules.css';
+
+
+
+
+/* 
 @import url('https://fonts.googleapis.com/css2?family=Newsreader:wght@200&display=swap');
 
 *{
@@ -16,7 +25,7 @@ body{
 /* .photo-template{
     display: none;
 } */
-
+/*
 div{
     float: left;
     margin: 50px;
@@ -36,4 +45,4 @@ img{
     width: 100%;
     height: 250px;
 }
-
+ */
